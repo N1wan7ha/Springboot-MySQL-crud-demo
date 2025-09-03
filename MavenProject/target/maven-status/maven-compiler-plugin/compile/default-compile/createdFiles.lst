@@ -1,0 +1,4 @@
+org\example\web\UserNSController.class
+org\example\Main.class
+org\example\model\UserNS.class
+org\example\repo\UserNSRepository.class
